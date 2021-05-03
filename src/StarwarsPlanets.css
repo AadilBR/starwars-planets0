@@ -1,0 +1,9 @@
+body{
+  background-image: url('./carbone-noir.jpg');
+  background-attachment: fixed;
+  }
+
+.photo {
+  height: 200px;
+  width: 400px;
+  }
